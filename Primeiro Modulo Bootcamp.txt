@@ -1,0 +1,3 @@
+Introdução á Programação e Pensamento Computacional
+Introdução ao Git e GitHub
+Criando seu Primeiro Repositório no GitHub Para Compartilhar seu Progresso
